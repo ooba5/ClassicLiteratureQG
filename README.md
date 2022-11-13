@@ -1,6 +1,9 @@
 # QgClassics
 This is a Question Generation (QG) system focusing on extracting information from classic literature then turning this information into questions and answers. 
-Milestone 1:
+
+The software works by running a Named Entity recognition model (NER) model over literature books to identify characters. The characters are then built into a graph where nodes are characters and edges are relationships, both edges and nodes are represented by frequency and sentiment. 
+A question generation templates is the applied to graph to generate questions. 
+A desktop app was built to read the auto generated questions and answers to present a quiz to the user. Below is instructions on running the system locally. 
 
 Presentations Below:
 
@@ -10,9 +13,7 @@ Milestone 2: https://youtu.be/UzdLymEOwHs
 
 Final: https://youtu.be/K4-c4CJiZXY
 
-The software works by running a Named Entity recognition model (NER) model over literature books to identify characters. The characters are then built into a graph where nodes are characters and edges are relationships, both edges and nodes are represented by frequency and sentiment. 
-A question generation templates is the applied to graph to generate questions. 
-A desktop app was built to read the auto generated questions and answers to present a quiz to the user. Below is instructions on running the system locally. 
+
 
 # User Manual 
 Requirements: Python 3 with and Mac OS or Linux OS (Tested on Mac OS Catalina and Ubuntu 20.04). Anaconda and python 3.8+ recommended. 
