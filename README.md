@@ -14,8 +14,9 @@ Milestone 2: https://youtu.be/UzdLymEOwHs
 Final: https://youtu.be/K4-c4CJiZXY
 
 # Example of Knowledge Graph
+Dracula Character Relationship Network to draw questions from 
 
-![Graph](./Images/count_and_sentiment.png)
+![Graph](./Images/count_and_sentiment_G.png)
 
 
 # User Manual 
@@ -48,7 +49,7 @@ Install the app from the  under `QgClassicsInstalls/` select the install for you
 
 Enter the path (Absolute Path works best) to the `questions_and_answers.txt` generated in step 5. There is a provided `questions_and_answers.txt` at `/QgClassics/QG/questions_and_answers.txt`
 
-![Opening Screen](./Images/opening_page.png)
+![Opening Screen](Images/opening_page.png)
 
 ## 8. 
 After selecting read questions quiz questions will be presented one at a time to the user. The user can select the either the correct answer or choose to remove the question if they think it is of poor quality. Also, the user can be shown the answer if they choose. 
