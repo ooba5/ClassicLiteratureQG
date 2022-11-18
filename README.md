@@ -13,6 +13,9 @@ Milestone 2: https://youtu.be/UzdLymEOwHs
 
 Final: https://youtu.be/K4-c4CJiZXY
 
+# Example of Knowledge Graph From Dracula from Bram Stoker 
+
+![Graph](./QG/count_and_sentiment.png)
 
 
 # User Manual 
