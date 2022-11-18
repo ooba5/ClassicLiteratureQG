@@ -15,7 +15,7 @@ Final: https://youtu.be/K4-c4CJiZXY
 
 # Example of Knowledge Graph
 
-![Graph] (./QG/count_and_sentiment.png)
+![Graph](./Images/count_and_sentiment.png)
 
 
 # User Manual 
